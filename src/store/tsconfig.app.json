@@ -16,5 +16,8 @@
     "node_modules",
     "test.ts",
     "**/*.spec.ts"
-  ]
+  ],
+  "angularCompilerOptions": {
+      "genDir": "../../out-tsc/app-gen"
+  }
 }

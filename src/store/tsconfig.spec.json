@@ -15,5 +15,8 @@
   ],
   "include": [
     "**/*.spec.ts"
-  ]
+  ],
+  "angularCompilerOptions": {
+      "genDir": "../out-tsc/spec-gen"
+  }
 }
