@@ -1,0 +1,1 @@
+{"summaries":[{"symbol":{"__symbol":0,"members":[]},"metadata":{"__symbolic":"class","statics":{"instance":{"__symbolic":"error","message":"Variable not initialized","line":48,"character":11}},"arity":1}}],"symbols":[{"__symbol":0,"name":"NgRedux","filePath":"/Users/sireeeps/github/e-schultz/angular-redux-store/src/store/components/ng-redux.d.ts"}]}
